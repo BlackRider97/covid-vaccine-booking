@@ -132,3 +132,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.json
+captcha.gif
+captcha.png 
+captcha.svg
+vendor/
